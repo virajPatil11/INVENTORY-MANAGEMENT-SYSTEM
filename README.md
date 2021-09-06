@@ -1,5 +1,5 @@
-# INVENTORY-MANAGEMENT-SYSTEM
-This repository is having all the codes with json files for making an Inventory Management System.
+# INVENTORY-MANAGEMENT-SYSTEM-ASSIGMENT
+This repository is having all the codes with json files for making an Inventory Management System during ETG PYTHON FOR AI/ML INTERNSHIP.
 
 ### I've made an inventory management system which is working on NoSQL database.
 
